@@ -1,0 +1,8 @@
+{
+    "ip": "localhost", 
+    "port": 3306, 
+    "dbname": "clear_sky_hall", 
+    "user": "root", 
+    "passwd": "passwd",
+    "table": "main"
+}
