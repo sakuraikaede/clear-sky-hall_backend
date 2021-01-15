@@ -9,6 +9,7 @@ The backend for Clear Sky Hall Website (in plan)
 
 ## Setting
 You have to import "csh.sql" in MySQL.  
+Then, you need to add some warm sentence in the table.  
 You need to modify the "settings.json". This is the meaning of the keys in this JSON file.  
 
 |  Key   | Meaning                                                    |
